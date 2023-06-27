@@ -1,0 +1,19 @@
+.header{
+    display: grid;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 10px;
+    place-items: center;
+    background: var(--bg-gradient); 
+    color: var(--bg-color);
+}
+
+input{
+    background-color: rgba(239, 246, 239, 0.207);
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin: 10px 10px;
+    border: none;
+    width: 80vw;
+    color: black;
+}
